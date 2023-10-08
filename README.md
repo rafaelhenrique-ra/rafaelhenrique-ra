@@ -1,15 +1,16 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=header"/>
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32CD32&size=35&center=true&vCenter=true&width=1000&lines=Olá+Mundo!+Me+chamo+Rafael,+muito+prazer👋;Tenho+18+anos;Quero+me+tornar+um+Cientista+de+Dados!👨🏻‍🔬🎲;Seja+bem-vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaelhenrique-br&bg_color=0d1117&color=32CD32&line=32CD32&point=32CD32&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafaelhenrique-br&show_icons=true&count_private=true&hide_border=true&title_color=32CD32&icon_color=32CD32&text_color=32CD32&bg_color=0d1117" alt="Rafael Henrique github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelhenrique-br&layout=compact&hide_border=true&title_color=32CD32&text_color=32CD32&bg_color=0d1117" />
 </div>
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaelhenrique-br&bg_color=0d1117&color=32CD32&line=32CD32&point=32CD32&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center"> 
