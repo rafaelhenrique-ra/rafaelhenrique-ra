@@ -83,4 +83,7 @@
 
 <h2 align="center"> Há 3 coisas que são invencíveis: a constância, a paciência e a disciplina. </h2>
 
+![Snake animation](https://github.com/rafaelhenrique-br/rafaelhenrique-br/blob/output/github-contribution-grid-snake.svg)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=rafaelhenrique-br&repo=rafaelhenrique-br&theme=react)](https://github.com/artur-debv/artur-debv)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=footer"/>
