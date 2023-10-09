@@ -81,6 +81,6 @@
 </div>
 
 
-<h3 align="center"> Há 3 coisas que são invencíveis: a constância, a paciência e a disciplina. </h3>
+<h2 align="center"> Há 3 coisas que são invencíveis: a constância, a paciência e a disciplina. </h2>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=footer"/>
