@@ -71,8 +71,12 @@
 <h3 align="left">🔗 Entre em contato comigo:</h3>
 <div align="left"> 
 <a href="https://www.linkedin.com/in/rafael-henrique-3b61b8219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+</div>
  
+<div align="left"> Meus Commits:
+![Snake animation](https://github.com/rafaelhenrique-br/rafaelhenrique-br/blob/output/github-contribution-grid-snake.svg)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=rafaelhenrique-br&repo=rafaelhenrique-br&theme=react)](https://github.com/rafaelhenrique-br/rafaelhenrique-br)
+</div>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
@@ -81,9 +85,7 @@
 </div>
 
 
-<h2 align="center"> Há 3 coisas que são invencíveis: a constância, a paciência e a disciplina. </h2>
 
-![Snake animation](https://github.com/rafaelhenrique-br/rafaelhenrique-br/blob/output/github-contribution-grid-snake.svg)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=rafaelhenrique-br&repo=rafaelhenrique-br&theme=react)](https://github.com/rafaelhenrique/rafaelhenrique)
+<h2 align="center"> Há 3 coisas que são invencíveis: a constância, a paciência e a disciplina. </h2>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=footer"/>
