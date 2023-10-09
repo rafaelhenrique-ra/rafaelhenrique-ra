@@ -73,10 +73,6 @@
 <a href="https://www.linkedin.com/in/rafael-henrique-3b61b8219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
  
-<div align="left"> Meus Commits:
-![Snake animation](https://github.com/rafaelhenrique-br/rafaelhenrique-br/blob/output/github-contribution-grid-snake.svg)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=rafaelhenrique-br&repo=rafaelhenrique-br&theme=react)](https://github.com/rafaelhenrique-br/rafaelhenrique-br)
-</div>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
