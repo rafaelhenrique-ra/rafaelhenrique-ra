@@ -72,7 +72,13 @@
 <div align="left"> 
 <a href="https://www.linkedin.com/in/rafael-henrique-3b61b8219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
+
+ <br>
  
+<h3 align="left">🐈‍⬛ Meu GitHub em Inglês:</h3>
+<div align="left"> 
+<a href="https://github.com/rafaelhenrique-en" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+</div>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
