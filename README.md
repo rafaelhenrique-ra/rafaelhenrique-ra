@@ -91,3 +91,7 @@
 <h2 align="center"> Há 3 coisas que juntas são invencíveis: a constância, a paciência e a disciplina. </h2>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=footer"/>
+
+<!--
+Eu tenho muito orgulho do ReadMe que eu fiz pra mim!!!!!! Isso aqui ficou muito booommm. Que felicidade, na moral :)
+-->
