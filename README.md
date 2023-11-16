@@ -19,7 +19,7 @@
 - 💭 Fale comigo sobre Dados, Tecnologia, Carreira e Inovação - ficarei feliz em ajudar :)
 - 📫 Fale comigo em: **rafaelhenrique.ra2@gmail.com**
 - ⚡ Curiosidade sobre mim: **Amo música e toco violão clássico como hobbie🎵**
-- 🎧 Se quiser dar uma olhada no meu gosto musical (aceito recomendações!): [LastFM - Rafael Henrique](https://www.last.fm/pt/user/Rafolas369)
+- 🎧 Se quiser dar uma olhada no meu gosto musical (aceito recomendações!): <a href="https://www.last.fm/pt/user/Rafolas369" target="_blank">LastFM - Rafael Henrique</a>
 - 🧠 **Habilidades:** Sou um autodidata exímio, fluente em inglês e tenho uma mentalidade bem metódica, o que ajuda no desenvolvimento de projetos
 
 ## 🚀 **Linguagens e Ferramentas que domino:**
