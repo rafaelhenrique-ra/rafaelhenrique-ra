@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=Olá+Mundo!+Me+chamo+Rafael,+muito+prazer👋;Tenho+18+anos;Quero+me+tornar+um+Cientista+de+Dados!👨🏻‍🔬🎲;Seja+bem-vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
-<h3 align="left"> 📊 Métricas do Github: </h3>
+## 📊 Métricas do Github
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafaelhenrique-br&show_icons=true&count_private=true&hide_border=true&title_color=15e5a6&icon_color=15e5a6&text_color=c9d1d9&bg_color=0d1117" alt="Rafael Henrique github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelhenrique-br&layout=compact&hide_border=true&title_color=15e5a6&text_color=FFFFFF&bg_color=0d1117" />
@@ -22,7 +22,7 @@
 - 🎧 Se quiser dar uma olhada no meu gosto musical (aceito recomendações!): <a href="https://www.last.fm/pt/user/Rafolas369" target="_blank">LastFM - Rafael Henrique</a>
 - 🧠 **Habilidades:** Sou um autodidata exímio, fluente em inglês e tenho uma mentalidade bem metódica, o que ajuda no desenvolvimento de projetos
 
-## 🚀 **Linguagens e Ferramentas que domino:**
+## 🚀 **Linguagens e Ferramentas:**
 ### 💻 Ferramentas de Desenvolvimento:
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
