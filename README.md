@@ -13,12 +13,12 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaelhenrique-br&bg_color=000000&color=15e5a6&line=A020F0&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 😸 Fatos sobre mim:
-- 🔭 Sou graduando em Sistemas para Internet na Unipê (João Pessoa)
+- 🔭 Sou graduando em Ciência de Dados e Inteligência Artificial na UFPB (João Pessoa)
 - 🎲 Estudos atualmente voltados para Data Science e Python
 - 👯 Procuro colaborar em projetos e pesquisas de Inteligência Artificial
 - 💭 Fale comigo sobre Dados, Tecnologia, Carreira e Inovação - ficarei feliz em ajudar :)
 - 📫 Fale comigo em: **rafaelhenrique.ra2@gmail.com**
-- ⚡ Curiosidade sobre mim: **Amo música e toco violão clássico como hobbie🎵**
+- ⚡ Curiosidade sobre mim: **Amo música e toco violão como hobbie🎵**
 - 🎧 Se quiser dar uma olhada no meu gosto musical (aceito recomendações!): <a href="https://www.last.fm/pt/user/Rafolas369" target="_blank">LastFM - Rafael Henrique</a>
 - 🧠 **Habilidades:** Sou um autodidata exímio, fluente em inglês e tenho uma mentalidade bem metódica, o que ajuda no desenvolvimento de projetos
 
