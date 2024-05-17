@@ -9,9 +9,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelhenrique-br&layout=compact&hide_border=false&title_color=15e5a6&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaelhenrique-br&bg_color=000000&color=15e5a6&line=A020F0&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## 😸 Fatos sobre mim:
 - 🔭 Sou graduando em Ciência de Dados e Inteligência Artificial na UFPB (João Pessoa)
 - 🎲 Estudos atualmente voltados para Data Science e Python
