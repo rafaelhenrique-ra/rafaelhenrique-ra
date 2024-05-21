@@ -72,11 +72,6 @@
 </div>
 
  <br>
- 
-<h2 align="left">🐈‍⬛ Meu GitHub em Inglês:</h2>
-<div align="left"> 
-<a href="https://github.com/rafaelhenrique-en" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-</div>
 
 
 
