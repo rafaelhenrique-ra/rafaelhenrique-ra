@@ -4,10 +4,10 @@
 
 ## 📊 Métricas do Github
 <div align="center">  
-  <div align="center">  
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=rafaelhenrique-ra&show_icons=true&count_private=true&hide_border=false&title_color=15e5a6&icon_color=15e5a6&text_color=c9d1d9&bg_color=0d1117" alt="Rafael Henrique github stats" /> 
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelhenrique-ra&layout=compact&hide_border=false&title_color=15e5a6&text_color=FFFFFF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafaelhenrique-ra&show_icons=true&count_private=true&hide_border=false&title_color=15e5a6&icon_color=15e5a6&text_color=c9d1d9&bg_color=0d1117" alt="Rafael Henrique github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelhenrique-ra&layout=compact&hide_border=false&title_color=15e5a6&text_color=FFFFFF&bg_color=0d1117" />
 </div>
+
 
 
 ## 😸 Fatos sobre mim:
