@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=header"/>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=Olá+Mundo!+Me+chamo+Rafael,+muito+prazer👋;Tenho+18+anos;Quero+me+tornar+um+Cientista+de+Dados!👨🏻‍🔬🎲;Seja+bem-vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;I'm+Rafael+Henrique,+Welcome+to+my+profile👋;I+hope+you+enjoy+my+projects+:%29)](https://git.io/typing-svg)
 
 ## 📊 Métricas do Github
 <div align="center">  
