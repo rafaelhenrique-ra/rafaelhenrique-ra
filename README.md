@@ -78,12 +78,6 @@
 <a href="https://github.com/rafaelhenrique-en" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{rafaelhenrique-ra}/count.svg" /></p> 
-<br>
-</div>
-
 
 
 <h2 align="center"> Há 3 coisas que juntas são imbatíveis: a constância, a paciência e a disciplina. </h2>
