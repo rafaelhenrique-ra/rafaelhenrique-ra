@@ -12,11 +12,11 @@
 - 🎓I'm an undergraduate student in Data Science and Artificial Intelligence at UFPB (João Pessoa, PB / Brazil);
 - 🖳 Studies currently focused on Data Science, Python and Backend;
 - ⚡I'm from Brazil, and I always been curious about what can I do with programming. I like to go beyond everything I do e it makes an excellent self-taught person. Whenever Im not solving math lists from college or sleeping, I code some cool stuff here and there. I have a very methodical and systematic mindset, which helps me develop projects;
-- 🎵 My favorite hobbie is music and I like to play guitar in my free-time, things like bossa-nova and classical guitar. Also, I love writing and poetry, and I like to write some ideas down when I have time (I'm currently trying to write a book!). Furthermore, I love sports and competitions in general, things like running, soccer, volleyball, gym, calistenics... whatever makes me move, I'm into it!
+- 🎵 My favorite hobby is music and I like to play guitar in my free time, things like bossa-nova and classical guitar music. Also, I love writing and poetry, and I write some ideas down when I have time (I'm currently trying to write a book!). Furthermore, I love sports and competitions in general, things like running, soccer, volleyball, gym, calisthenics... whatever makes me move, I'm into it!
 - 🧠 Data is my passion, and I have a goal to develop interesting things and contribuite to the AI market in someway, may inovating with some startup or becoming a resercher in the area. I see technology as much more than just a career, but also as a cause to be fought for and to make it ever more accessible, positively impacting on society's progress.
 
 
-## 🔗 My contacts:</h2>
+## 👤 My contacts:
 > Contact me if you want to talk about career, technology, recommend a song or an anime... (I promise no ghosting!)
 <div align="left"> 
   
