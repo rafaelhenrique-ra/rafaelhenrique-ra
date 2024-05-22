@@ -1,3 +1,13 @@
+<!--
+
+Hey you! Congratulations! You found an easter egg in the readme code of my github profile 😄
+
+Since you've made it this far, feel free to fork and take inspiration from some of the features in this repository to use in your profile! 
+
+As a token of my gratitude, I just kindly ask you to put a star in this repo. I'll be very happy to know that I've helped someone's profile ;)
+
+-->
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;I'm+Rafael+Henrique,+Welcome+to+my+profile👋;I+hope+you+enjoy+my+projects+:%29)](https://git.io/typing-svg)
@@ -27,10 +37,7 @@
 
 
 
-<h2 align="center"> There are three things that together are unbeatable: consistency, patience and discipline. And if nothing works, that's ok! It's just life anyway... ;) </h2>
+<h2 align="center"> There are three things that together are unbeatable: consistency, patience and discipline. And if nothing works out, that's ok! It's just life anyway... ;) </h2>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=footer"/>
 
-<!--
-Eu tenho muito orgulho do ReadMe que eu fiz pra mim!!!!!! Isso aqui ficou muito booommm. Que felicidade, na moral :)
--->
