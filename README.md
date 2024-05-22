@@ -16,7 +16,7 @@
 - 🧠 Data is my passion, and I have a goal to develop interesting things and contribuite to the AI market in someway, may inovating with some startup or becoming a resercher in the area. I see technology as much more than just a career, but also as a cause to be fought for and to make it ever more accessible, positively impacting on society's progress.
 
 
-## 🔗 My contacts:</h2>
+### 🔗 My contacts:</h2>
 > Contact me if you want to talk about career, technology, recommend a song or an anime... (I promise no ghosting!)
 <div align="left"> 
   
