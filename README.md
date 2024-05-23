@@ -1,10 +1,10 @@
 <!--
 
-Hey you! Congratulations! You found an easter egg in the readme code of my github profile 😄
+Hey you! You found an easter egg in the readme code of my GitHub profile 😄
 
 Since you've made it this far, feel free to fork and take inspiration from some of the features in this repository to use in your profile! 
 
-As a token of my gratitude, I just kindly ask you to put a star in this repo. I'll be very happy to know that I've helped someone's profile ;)
+I just kindly ask you to put a star in this repo. I'll be very happy to know that I've helped someone's profile ;)
 
 -->
 
