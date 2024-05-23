@@ -35,6 +35,8 @@ I just kindly ask you to put a star in this repo. I'll be very happy to know tha
 
 <br>
 
+#
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaelhenrique-ra/rafaelhenrique-ra/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafaelhenrique-ra/rafaelhenrique-ra/output/github-contribution-grid-snake-dark.svg">
