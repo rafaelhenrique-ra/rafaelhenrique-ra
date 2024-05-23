@@ -35,11 +35,7 @@ I just kindly ask you to put a star in this repo. I'll be very happy to know tha
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaelhenrique-ra/rafaelhenrique-ra/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafaelhenrique-ra/rafaelhenrique-ra/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rafaelhenrique-ra/rafaelhenrique-ra/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 
 <h2 align="center"> There are three things that together are unbeatable: consistency, patience and discipline. And if nothing works out, that's ok! It's just life anyway... ;) </h2>
