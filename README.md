@@ -33,7 +33,6 @@ I just kindly ask you to put a star in this repo. I'll be very happy to know tha
   <a href = "mailto:rafaelhenrique.ra2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaelhenrique-ra/rafaelhenrique-ra/output/github-contribution-grid-snake-dark.svg">
