@@ -49,13 +49,6 @@ if __name__ == '__main__':
   <a href = "mailto:rafaelhenrique.ra2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-## 📊 My GitHub Stats
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafaelhenrique-ra&show_icons=true&count_private=true&hide_border=false&title_color=15e5a6&icon_color=15e5a6&text_color=c9d1d9&bg_color=0d1117" alt="Rafael Henrique github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelhenrique-ra&layout=compact&hide_border=false&title_color=15e5a6&text_color=FFFFFF&bg_color=0d1117" />
-</div>
-
-
 #
 
 <picture align="center">
@@ -69,3 +62,23 @@ if __name__ == '__main__':
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=footer"/>
 
+
+<!--
+
+I used to have this GithHub stats section on my profile, but I decided to remove it for two reasons:
+    1. I wasn't finding it pretty in my readme
+    2. Everyone uses it! It's kind of saturated...
+But if you want to copy it and use it, go ahead. Remember to change the username in the code to your own:
+
+## 📊 My GitHub Stats
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafaelhenrique-ra&show_icons=true&count_private=true&hide_border=false&title_color=15e5a6&icon_color=15e5a6&text_color=c9d1d9&bg_color=0d1117" alt="Rafael Henrique github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelhenrique-ra&layout=compact&hide_border=false&title_color=15e5a6&text_color=FFFFFF&bg_color=0d1117" />
+</div>
+
+-->
+
+
+<!--
+Feito com muito carinho, Rafael.
+-->
