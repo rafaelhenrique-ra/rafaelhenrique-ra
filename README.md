@@ -34,12 +34,14 @@ class RafaelHenriqueSkills:
     self.currently_involved = 'TAIL'
 
   def say_hi(self):
-    print('Hi! That''s all I know at the moment... but I''m constantly learning as I create more complex projects. It''ll only end the day my eyes close forever ;)')
+    print('Hi! That's all I know at the moment... but I'm constantly learning as I create more complex projects. It'll only end the day my eyes close forever ;)')
 
 if __name__ == '__main__':
     me = RafaelHenriqueSkills()
     me.say_hi()
 ```
+
+<br>
 
 ## 👤 My contacts:
 > Contact me if you want to talk about career, technology, recommend a song or an anime... (I promise no ghosting!)
