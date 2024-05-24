@@ -41,8 +41,6 @@ if __name__ == '__main__':
     me.say_hi()
 ```
 
-<br>
-
 ## 👤 My contacts:
 > Contact me if you want to talk about career, technology, recommend a song or an anime... (I promise no ghosting!)
 <div align="left"> 
@@ -52,7 +50,6 @@ if __name__ == '__main__':
 </div>
 
 #
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaelhenrique-ra/rafaelhenrique-ra/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafaelhenrique-ra/rafaelhenrique-ra/output/github-contribution-grid-snake-dark.svg">
