@@ -23,36 +23,21 @@ I just kindly ask you to put a star in this repo. I'll be very happy to know tha
 ```python
 class RafaelHenriqueSkills:
   def __init__(self):
-    self.linguagens_programacao = ["Python"]
-    self.ferramentas_desenvolvimento = ["IDE", "Git"]
-    self.ferramentas_ciencia_dados = ["Numpy", "Pandas", "Scikit Learn", "Power BI"]
-    self.idiomas = ["Português Brasileiro", "Inglês"]
-    self.empresa_atual = "TAIL"
-    self.interesses = ['Data Science', 'Artificial Intelligence', 'Machine Learning', 'Deep Learning', 'Math and Statistics']
-
-  def mostrar_habilidades(self):
-    habilidades = {
-            "Linguagens de Programação": self.linguagens_programacao,
-            "Ferramentas de Desenvolvimento": self.ferramentas_desenvolvimento,
-            "Ferramentas de Ciência de Dados": self.ferramentas_ciencia_dados,
-            "Idiomas": self.idiomas,
-            "Empresa Atual": self.empresa_atual,
-            "Interesses": self.interesses
-        }
-    for categoria, itens in habilidades.items():
-      print(f"{categoria}:")
-        if isinstance(itens, list):
-          for item in itens:
-            print(f"  - {item}")
-          else:
-            print(f"  - {itens}")
+    self.username = 'rafaelhenrique-ra'
+    self.name = 'Rafael Henrique'
+    self.role = ['Data Science Student']
+    self.code = ['Python']
+    self.python_libs = ['Pandas', 'Numpy', 'Matplotlib', 'Scikit-Learn', 'TensorFlow']
+    self.tools = ['Jupyter', 'Power BI', 'Git', 'VS Code', 'Office']
+    self.database = ['MySQL']
+    self.language_spoken = ['pt-BR', 'en-US']
+    self.currently_involved = 'TAIL'
 
   def say_hi(self):
-    print("Hi! That's all I know at the moment... but I'm constantly learning as I create more complex projects. It'll only end the day my eyes close forever ;)")
+    print('Hi! That''s all I know at the moment... but I''m constantly learning as I create more complex projects. It''ll only end the day my eyes close forever ;)')
 
 if __name__ == '__main__':
     me = RafaelHenriqueSkills()
-    me.mostrar_habilidades()
     me.say_hi()
 ```
 
