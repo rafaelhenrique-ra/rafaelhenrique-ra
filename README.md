@@ -43,7 +43,7 @@ if __name__ == '__main__':
 
 ## 👤 My contacts:
 > Contact me if you want to talk about career, technology, recommend a song or an anime... (I promise no ghosting!)
-<div align="center"> 
+<div align="left"> 
   <a href="https://www.linkedin.com/in/rafaelhenrique-ra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/rafaelhenrique.ra/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rafaelhenrique.ra2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
