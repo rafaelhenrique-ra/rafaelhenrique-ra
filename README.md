@@ -1,6 +1,6 @@
 <!--
 
-Hey you! You found an easter egg in the readme code of my GitHub profile 😄
+Hey! You found an easter egg in the readme code of my GitHub profile 😄
 
 Since you've made it this far, feel free to fork and take inspiration from some of the features in this repository to use in your profile! 
 
