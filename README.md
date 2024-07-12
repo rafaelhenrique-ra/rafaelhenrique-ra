@@ -26,7 +26,7 @@ class RafaelHenriqueSkills:
     self.username = 'rafaelhenrique-ra'
     self.name = 'Rafael Henrique'
     self.role = ['Data Science Student']
-    self.code = ['Python']
+    self.code = ['Python, C']
     self.python_libs = ['Pandas', 'Numpy', 'Matplotlib', 'Scikit-Learn', 'TensorFlow']
     self.tools = ['Jupyter', 'Power BI', 'Git', 'VS Code', 'Office']
     self.database = ['MySQL']
