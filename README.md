@@ -60,7 +60,8 @@ if __name__ == '__main__':
 -->
 
 <h2 align="center"/> 
-  There are three things that together are unbeatable: consistency, patience, and discipline. And if nothing works out, that's ok! It's just life anyway... ;)
+  There are three things that together are unbeatable: consistency, patience, and discipline. 
+  And if nothing works out, that's ok! It's just life anyway... ;)
 </h2>
 
 <!--
