@@ -8,9 +8,11 @@ I just kindly ask you to put a star in this repo. I'll be very happy to know tha
 
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=header"/>
+# Rafael Henrique 🌟
+> Hello World! Welcome to my GitHub!👋 I hope you enjoy my projects ;) <br>
+> *Data Science & AI ◦ DevOps & MLOps ◦ Backend*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;I'm+Rafael+Henrique,+Welcome+to+my+profile👋;I+hope+you+enjoy+my+projects+:%29)](https://git.io/typing-svg)
+<hr>
 
 ## 😸 About me:
 - 🎓I'm an undergraduate student in Data Science and Artificial Intelligence at Universidade Federal da Paraíba (UFPB) - João Pessoa, PB / Brazil;
@@ -55,11 +57,9 @@ if __name__ == '__main__':
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rafaelhenrique-ra/rafaelhenrique-ra/output/github-contribution-grid-snake.svg">
 </picture>
 
-<h2 align="center"> There are three things that together are unbeatable: consistency, patience and discipline. And if nothing works out, that's ok! It's just life anyway... ;) </h2>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=footer"/>
-
-
+<h2 align="center"/> 
+  There are three things that together are unbeatable: consistency, patience, and discipline. And if nothing works out, that's ok! It's just life anyway... ;)
+</h2>
 
 <!--
 
