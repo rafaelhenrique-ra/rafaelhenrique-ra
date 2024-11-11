@@ -30,7 +30,7 @@ class RafaelHenriqueSkills:
     self.role = ['Data Science Student']
     self.code = ['Python, C']
     self.python_libs = ['Pandas', 'Numpy', 'Matplotlib', 'Scikit-Learn', 'TensorFlow']
-    self.tools = ['Jupyter', 'Power BI', 'Git', 'VS Code', 'Office']
+    self.tools = ['Docker', 'Kubernets', Jupyter', 'Power BI', 'Git', 'VS Code', 'Office']
     self.database = ['MySQL']
     self.language_spoken = ['pt-BR', 'en-US']
     self.currently_involved = 'TAIL'
